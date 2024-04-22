@@ -1,0 +1,17 @@
+Modell,Context Window,Input Cost / 1M tokens,Output Cost / 1M tokens,Total
+Claude 2,100K,8.00,24.00,
+Claude 2.1,200K,8.00,24.00,
+Claude 3 Haiku,200K,0.25,1.25,
+Claude 3 Opus,200K,15.00,75.00,
+Claude 3 Sonnet,200K,3.00,15.00,
+Claude Instant,100K,0.80,2.40,
+Gemini 1.5 Pro,128K,7,21,
+Gemini Pro,32K,0.125,0.375,
+GPT-3.5 Turbo,16K,0.5,1.5,
+GPT-3.5 Turbo Instruct,4K,1.5,2.00,
+GPT-4,8K,30.00,60.00,
+GPT-4 Turbo,128K,10.00,30.00,
+GPT-4-32k,32K,60.00,120.00,
+Mistral Large,32K,8.00,24.00,
+"Mistral Medium,32K,""2,7"",8.1,"
+Mistral Small,16K,2.00,6.00,
