@@ -1,2 +1,2 @@
 # team-ai-kostnadsoverslag
- Et repo med kostndasberegeninger for closed source
+ Et repo med kostnadsberegeninger for closed source LLM-modeller
